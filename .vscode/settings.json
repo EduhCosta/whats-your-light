@@ -1,0 +1,20 @@
+{
+  "editor.minimap.maxColumn": 80,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.disableLanguages": [
+    "js"
+  ],
+  "files.associations": {
+    "*.md": "mdx"
+  },
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
